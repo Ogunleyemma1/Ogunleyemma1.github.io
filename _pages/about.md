@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Civil Engineering, University of Houston
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Civil and Environmental Engineering</p>
+    <p>University of Houston</p>
+    <p>Houston, TX</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Civil Engineering at the [University of Houston](https://www.uh.edu/), advised by Dr. Abigail L. Beck. My research focuses on **infrastructure and community resilience**, with particular interest in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- Probabilistic fragility and resilience assessment of infrastructure systems
+- Risk-informed decision support for infrastructure network safety and operation
+- Restoration and recovery modeling at the infrastructure and community level
+- Infrastructure asset management and lifecycle planning
+- Digital twins and data-driven condition monitoring of infrastructure systems
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I work with the Beck Research Group on probabilistic assessment of electrical power distribution networks in Houston and Galveston under wind hazards, developing fragility models to characterize vulnerability at the component and network levels.
+
+Before starting my PhD, I completed my M.Sc. in Digital Engineering at [Bauhaus-Universität Weimar](https://www.uni-weimar.de/en/university/start/), Germany, where I developed a hybrid LSTM-VAE-CNN framework for structural damage prognosis in prestressed concrete bridges. I also worked as a structural engineer in the UK and Nigeria, analyzing and designing telecom structures, residential buildings, and multistory reinforced concrete and steel structures.
