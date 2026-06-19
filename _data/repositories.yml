@@ -2,3 +2,8 @@ github_users:
   - Ogunleyemma1
 repo_description_lines_max: 2
 github_repos:
+  - Ogunleyemma1/DE-xgboost-concrete-strength
+  - Ogunleyemma1/Hybrid-VAE-CNN-for-SHM
+  - Ogunleyemma1/Crack-Detector
+  - Ogunleyemma1/Convolutional-neural-networks-for-image-classification
+  - Ogunleyemma1/Image-Analysis-and-Object-Recognition
