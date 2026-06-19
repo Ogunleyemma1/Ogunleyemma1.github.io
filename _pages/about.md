@@ -6,7 +6,7 @@ subtitle: PhD Student, Civil Engineering, University of Houston
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Civil and Environmental Engineering</p>
