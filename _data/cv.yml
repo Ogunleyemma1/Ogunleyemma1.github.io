@@ -12,8 +12,8 @@ cv:
     - network: GitHub
       username: Ogunleyemma1
 
-  address:
-    street: 2501 Speedway
+  address: N107
+    street: Cullen College of Engineering
     city: Houston
     region: Texas
     postalCode: TX 77204
@@ -27,8 +27,7 @@ cv:
         studyType: PhD
         start_date: 2025
         end_date: 2029
-        score: "3.67/4.0"
-        courses: "Infrastructure and Community Resilience Assessment"
+        research: "Infrastructure and Community Resilience Assessment"
         highlights:
           - "Advisor: Dr. Abigail L. Beck"
 
@@ -39,7 +38,6 @@ cv:
         studyType: MSc
         start_date: 2023
         end_date: 2025
-        score: "2.0/1.0"
         highlights:
           - "Advisor: Prof. Stefan Kollmannsberger"
           - "Thesis: A Hybrid Variational Autoencoder and Convolutional Neural Network Framework for Diagnosing Structural Damage and Sensor Faults"
@@ -50,7 +48,6 @@ cv:
         studyType: BEng
         start_date: 2014
         end_date: 2019
-        score: "4.85/5.0"
         highlights:
           - "Advisor: Prof. Simon Olawale"
           - "Thesis: Parametric Investigation of the Reliability of One-way Reinforced Concrete Slab"
