@@ -12,8 +12,8 @@ cv:
     - network: GitHub
       username: Ogunleyemma1
 
-  address: N107
-    street: Cullen College of Engineering
+  address:
+    street: N107 Cullen College of Engineering
     city: Houston
     region: Texas
     postalCode: TX 77204
