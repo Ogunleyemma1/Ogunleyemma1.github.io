@@ -9,9 +9,12 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Civil and Environmental Engineering</p>
-    <p>University of Houston</p>
-    <p>Houston, TX</p>
+    <p><i class="fa-solid fa-location-dot"></i>&nbsp; Houston, TX</p>
+    <p><i class="fa-solid fa-building-columns"></i>&nbsp; University of Houston</p>
+    <p><i class="fa-solid fa-envelope"></i>&nbsp; <a href="mailto:oeogunle@cougarnet.uh.edu">Email</a></p>
+    <p><i class="ai ai-google-scholar"></i>&nbsp; <a href="#">Google Scholar</a></p>
+    <p><i class="fa-brands fa-github"></i>&nbsp; <a href="https://github.com/Ogunleyemma1">GitHub</a></p>
+    <p><i class="fa-brands fa-linkedin"></i>&nbsp; <a href="https://www.linkedin.com/in/olubunmi-ogunleye-574a44164/">LinkedIn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
