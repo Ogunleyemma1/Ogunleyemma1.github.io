@@ -12,7 +12,7 @@ profile:
     <p><i class="fa-solid fa-location-dot"></i>&nbsp; Houston, TX</p>
     <p><i class="fa-solid fa-building-columns"></i>&nbsp; University of Houston</p>
     <p><i class="fa-solid fa-envelope"></i>&nbsp; <a href="mailto:oeogunle@cougarnet.uh.edu">Email</a></p>
-    <p><i class="ai ai-google-scholar"></i>&nbsp; <a href="#">Google Scholar</a></p>
+    <p><i class="ai ai-google-scholar"></i>&nbsp; <a href="https://scholar.google.com/citations?user=sIzXHWQAAAAJ">Google Scholar</a></p>
     <p><i class="fa-brands fa-github"></i>&nbsp; <a href="https://github.com/Ogunleyemma1">GitHub</a></p>
     <p><i class="fa-brands fa-linkedin"></i>&nbsp; <a href="https://www.linkedin.com/in/olubunmi-ogunleye-574a44164/">LinkedIn</a></p>
 
@@ -30,7 +30,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in Civil Engineering at the [University of Houston](https://www.uh.edu/), advised by [Dr. Abigail L. Beck](https://www.cee.uh.edu/faculty/beck-abby). My research focuses on **infrastructure and community resilience**, with particular interest in:
+I am Olubunmi Ogunleye (Bunmi), a PhD student in Civil Engineering at the [University of Houston](https://www.uh.edu/), advised by [Dr. Abigail L. Beck](https://www.cee.uh.edu/faculty/beck-abby). My research focuses on **infrastructure and community resilience**, with particular interest in:
 
 - Probabilistic fragility and resilience assessment of infrastructure systems
 - Risk-informed decision support for infrastructure network safety and operation
